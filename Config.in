@@ -5,6 +5,7 @@
 mainmenu "OpenWrt Configuration"
 
 config MODULES
+
 	option modules
 	bool
 	default y
